@@ -1,9 +1,7 @@
 package com.d9nich;
 
-import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Exercise1 {
     private static int counter = 0;

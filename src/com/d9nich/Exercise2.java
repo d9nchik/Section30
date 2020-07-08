@@ -1,7 +1,6 @@
 package com.d9nich;
 
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
