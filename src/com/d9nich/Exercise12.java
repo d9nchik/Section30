@@ -1,7 +1,6 @@
 package com.d9nich;
 
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 public class Exercise12 {
     public static int sumDigits(long n) {
